@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="CVX400_Tags PROFINET.xml" projectName="C:\Users\ssamcm\Desktop\Function Block Siemens\CVX400_Tags PROFINET.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="2:50:50 PM">
+    <Message>Error found while loading file C:\Users\ssamcm\Desktop\Function Block Siemens\CVX400_Tags PROFINET.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>
